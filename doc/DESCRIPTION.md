@@ -1,1 +1,9 @@
-Designed to document and create stories from hands-on activities, do•doc (pronounced doudoc) is a composite, open-source, modular tool that allows you to capture media (photos, videos, sounds, and stop-motion), edit them, lay them out, and publish them. Its composite aspect allows it to be reconfigured so that it is as adapted as possible to the situation in which it is deployed.
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible, AngularJS-powered HTML5 Markdown editor.
+
+### Features
+
+- Import a HTML file and watch it magically convert to Markdown
+- Drag and drop images (requires your Dropbox account be linked)
+- Import and save files from GitHub, Dropbox, Google Drive and One Drive
+- Drag and drop markdown and HTML files into Dillinger
+- Export documents as Markdown, HTML and PDF

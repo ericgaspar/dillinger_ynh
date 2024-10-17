@@ -12,11 +12,11 @@ version = "11.1.3~ynh3"
 maintainers = ["eric_G"]
 
 [upstream]
-license = "AGPL-3.0-only"
-website = "https://dodoc.fr/"
-demo = "https://test.dodoc.fr/"
-admindoc = "https://github.com/l-atelier-des-chercheurs/dodoc#readme"
-code = "https://github.com/l-atelier-des-chercheurs/dodoc"
+license = "MIT"
+website = "https://dillinger.io/"
+demo = "https://dillinger.io/"
+admindoc = "https://dillinger.io/"
+code = "https://github.com/joemccann/dillinger"
 
 [integration]
 yunohost = ">= 11.2.30"
@@ -54,8 +54,6 @@ ram.runtime = "512M"
     [resources.system_user]
 
     [resources.install_dir]
-
-    [resources.data_dir]
 
     [resources.permissions]
     main.url = "/"
