@@ -46,8 +46,8 @@ ram.runtime = "512M"
 
     [resources.sources.main]
 
-    url = "https://github.com/joemccann/dillinger/archive/refs/tags/3.5.1.tar.gz"
-    sha256 = "89cb348031e949b24ea38368da657bab2c3a030508dcaafd0a46697931656bcc"
+    url = "https://github.com/joemccann/dillinger/archive/refs/heads/master.zip"
+    sha256 = "550058f5906ff9209e4e4007adcecac3b544e9a86c6dc797b801665fbd37c097"
 
     #autoupdate.strategy = "latest_github_tag"
 
